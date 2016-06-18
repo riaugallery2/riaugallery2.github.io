@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Twister
 ![twister preview](/img/twister_preview_big.jpg)
 
@@ -20,3 +21,6 @@ Check the [Docs](http://twister.digitalmind.ch/documentation/) out.
 ### Feedback, Wishes, Problems
 If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
 If you just want to give us a general feedback feel free to [contact us!](http://digitalmind.ch/contact/)
+=======
+# riaugallery2.github.io
+>>>>>>> origin/master
