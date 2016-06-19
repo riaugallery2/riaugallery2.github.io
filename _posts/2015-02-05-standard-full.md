@@ -7,7 +7,6 @@ tags: [text]
 category: [standard]
 ---
 ### Pertanian & perkebunan
-
  Perkebunan yang berkembang adalah perkebunan karet dan perkebunan kelapa sawit,
  baik itu yang dikelola oleh negara ataupun oleh rakyat. Selain itu juga terdapat
  perkebunan jeruk dan kelapa. Untuk luas lahan perkebunan kelapa sawit saat ini
