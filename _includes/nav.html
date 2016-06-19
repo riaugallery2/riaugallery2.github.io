@@ -34,9 +34,7 @@
                 <li class="sicon">
                     <a href='#search'><i class='fa fa-search'></i></a>
                 </li>
-                <li class="sicon">
-                    <audio autoplay controls> <source src="Kalimba.ogg"></audio>
-                </li>
+            
 
                 {% if site.instagram %}
                     <li class="social">
@@ -56,6 +54,10 @@
                     </li>
                 {% endif %}
                 
+                <li class="sicon">
+                    <embed src="Kalimba.ogg" autostart="false" loop="false" volume="60" />
+                </li>
+                
             </ul>
         </nav>
         <a href='#menu' class="toggle_link noline">
@@ -63,5 +65,43 @@
         </a>
     </div>
 </section>
+<!-----localstorage-->
+//cek browser mendukung localstorage atau tidak
+if(typeof(localStorage) == 'undefined')
+     alert('Browser anda tidak mendukung localStorage.!');
+else
+     alert('Browser anda mendukung localStorage.');
+
+
+// fungsi simpan(), ketika tombol diklik maka string 
+// di dalam input akan tersimpan ke dalam storage browser
+function simpan() {		
+	var storage = document.getElementById('nama').value;
+	localStorage.setItem('Text',storage);
+} 
+// tampil() akan menampilkan string yang tersimpan
+// ke tag div yang ditentukan "hasil"
+function tampil() {
+	var tampilNama = localStorage.getItem('Text');
+	if (tampilNama) {
+	x = document.getElementById('tampil');
+	x.innerHTML=tampilNama;
+	}
+}
+// fungsi untuk menghapus localstorage browser
+function hapus() {
+	localStorage.removeItem('Text');
+}
+</script>
+</head>
+	<body>
+		<input type="text" id="nama" />
+		<input type="button" value="Simpan" onclick="simpan()" />
+		<input type="button" value="Tampil" onclick="tampil()" />
+		<input type="button" value="Hapus" onclick="hapus()" />
+		<div id="tampil"></div>
+		
+<!---end>
+
 </body> 
 </html>
