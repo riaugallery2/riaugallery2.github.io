@@ -13,6 +13,6 @@ lagu laki bini
  <title>|music</title>
  </head>
  <body>
- <audio autoplay controls> <source src="music/kalimba.ogg">  </audio>
+ <audio autoplay controls> <source src="kalimba.ogg">  </audio>
  </body>
  </html>
