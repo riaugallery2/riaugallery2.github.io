@@ -4,7 +4,7 @@ layout: post_full
 type: youtube
 yt-video-id: 4FZAiJSSNp8
 homedisplay: iframe
-title: video lagu riau
+title: video lagu Soleram
 tags: [video, music, iframe]
 category: [video]
 ---

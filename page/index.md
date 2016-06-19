@@ -12,6 +12,7 @@ Sumatera  dan  sebelah  selatan  Singapura. Kepulauan ini dimekarkan menjadi pro
 Juli 2004. Ibu kota dan kota terbesar Riau adalah Pekanbaru.Kota besar lainnya antara lain Dumai,Selat
 Panjang,Bagansiapiapi, Bengkalis, Bangkinang dan Rengat._
 <br>
+
 _Riau saat ini merupakan salah satu provinsi terkaya di Indonesia, dan sumber dayanya didominasi oleh sumber 
 alam, terutama minyak bumi, gas alam, karet, kelapa sawit dan perkebunan serat. Tetapi, penebangan hutan yang
 merajalela telah mengurangi luas hutan secara signifikan, dari 78% pada 1982 menjadi hanya 33% pada 2005.[4] 

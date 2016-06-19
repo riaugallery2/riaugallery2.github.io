@@ -58,9 +58,7 @@ Hasil pertambangan provinsi Riau adalah Minyak bumi, Gas, dan Batu Bara.
  perusahaan ini menambah dua armada lagi dengan jenis Avro-RJ 100
  <br>
  
-###Keuangan & Perbankan
-
+### Keuangan & Perbankan
  Untuk bidang perbankkan di provinsi sangat berkembang pesat, ini ditandai banyaknya bank swasta
  dan BPR, selain bank milik pemerintah daerah seperti Bank Riau Kepri. 
- 
  
