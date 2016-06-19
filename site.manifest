@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# V.0.0.1
+application-cache.html
+ 
+# Tambahan Konten yang akan di caching
+CACHE:
+images/bg1.jpg
+images/s01.png
+images/s02.png
+images/s03.png
+
+ 
+# Konten yang akan ditampilkan jika Online
+NETWORK:
+index.html
+ 
+# offline.html akan nampak ketika offline
+FALLBACK:
+index.html offline.html
